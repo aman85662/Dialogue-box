@@ -52,8 +52,8 @@ button:hover {
 .close {
     color: #aaa;
     float: right;
-    font-size: 28px;
-    font-weight: bold;
+    height: 10vh;
+    width: 10vb;
     cursor: pointer;
     transition: color 0.3s;
 }
